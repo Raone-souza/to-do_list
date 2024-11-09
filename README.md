@@ -12,7 +12,7 @@ O projeto permite que o usuário adicione e remova tarefas de uma lista, proporc
 
 ## Tela da Aplicação
 
-![To-Do List Screenshot](imgs\img.png)
+![To-Do List Screenshot](img.png)
 <br><br>
 
 ## Pré-requisitos
