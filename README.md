@@ -32,7 +32,7 @@ Para executar este projeto, é necessário ter o **Python** instalado e as segui
 `cd to-do-list` 
 
 ### 3. Execute o aplicativo:
-`python to_do_list.py`
+`python app.py`
 
 
 ### 🎉 Agora você deve ser capaz de acessar a aplicação e gerenciar suas tarefas.
